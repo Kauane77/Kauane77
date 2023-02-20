@@ -1,7 +1,7 @@
 • 👋 Olá! Meu nome é Kauane , mas podem me chamar de Kah 
 
-• 👀 Estou começando minha carreira de programação 
-• 💻 Estou estudando na Rocketseat 
+
+• 💻 Estudo na Rocketseat 
 • 😍 Sou apaixonada em tecnologia e amo conhecer 
 coisas novas, estou me aventurando nesse mundo 
 incrível da programação, e amando cada dia mais .
