@@ -1,14 +1,20 @@
-• 👋 Olá! Meu nome é Kauane , mas podem me chamar de Kah 
+### Hy there! I`m Kauane Fregnnan. 👩‍🚀🚀
+
+#### About!
+🚀 I`m studying Web Development at [Rocketseat] (https://www.rocketseat.com.br/).
+
+#### Current stack : 
+- ⚡️Frontend: `HTML5`, `CSS3`, `JavaScript`.
+- 🎨 Layout Design : `Figma`.
+- 📦️ Version Code Control: `Git & GitHub` .
+- 🔧 Tolls : `VsCode`, `Markdown`.
+- I`m mostly active within the `Rocketseat Community`.
+
+#### Contacts
+
+- 📩 Email: Kauanefregnan@gmail.com
 
 
-• 💻 Estudo na Rocketseat 
-• 😍 Sou apaixonada em tecnologia e amo conhecer 
-coisas novas, estou me aventurando nesse mundo 
-incrível da programação, e amando cada dia mais .
-• 💞 Estou sempre me desafiando a aprender coisas que 
-nunca pensei que seria capaz , com foco e determinação,
-e buscando sempre mais para poder me destacar no 
-mercado de trabalho, e finalmente conseguir minha 
-primeira vaga como dev .🚀
+
 
 
